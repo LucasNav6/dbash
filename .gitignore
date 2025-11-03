@@ -1,3 +1,5 @@
 *.dbash
-dbash
 vars/
+logs/
+build/
+*.txt
